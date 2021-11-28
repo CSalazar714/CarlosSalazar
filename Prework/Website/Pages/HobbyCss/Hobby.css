@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<style type="text/css">
+	* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+
+	h2{
+		color: darkred;
+		font-size: xx-large;
+	}
+
+		#Videogames{
+				color: darkred;
+		}
+
+		#Pictures{
+				color: darkblue;
+
+		}
+
+	body{
+		background-color: lightgreen;
+		font-size: large;
+	}
+	p{
+		text-decoration: underline;
+		font-style: oblique;
+	}
+	a{
+		color: darkblue;
+		text-decoration: underline;
+	}
+		#pics{
+			background-color: darkseagreen;
+		}
+		#boardgames{ 
+		background-color: lightgoldenrodyellow;
+		}
+		#boardgames:hover{
+			background-color: deepskyblue;
+		}
+		#pics, #boardgames { 
+		border: dotted; }
+	form{
+		padding: 12px;
+		background-color: white;
+		font-style: italic;
+		border-style: solid;
+		font-weight: 900px;
+	}
+input [type=button] {
+	color: black;
+	background-color: white;
+	padding: 5px;
+}
+input[type=button]:hover{
+	border: solid;
+	background-color: lightyellow;
+}
+input[type=text]:focus{
+	background-color: lightgray;
+	color: black;
+	width: 50%;
+	transition: 2s;
+
+}
+
+	}
+	.favorites {
+		text-decoration: underline;
+	}
+	#intro{
+		background-color: lightblue;
+		position: static;
+		width: 1200;
+		overflow: auto;
+
+	}
+	#interests{
+		background-color: lightslategrey;
+	}
+	#intro, #interests {
+		border: dashed;
+	}
+
+	.fixed {
+		position: fixed;
+		top: 0;
+		right: 100;
+		width: 175px;
+		background-color: red;
+		opacity: .85;
+	}
+	.Pumba {
+		float: right;
+		width: 400px;
+		height: 600px;
+		margin: 0 0 1em 1em;
+	}
+
+	
+</style>
+</html>

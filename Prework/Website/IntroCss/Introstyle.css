@@ -1,0 +1,36 @@
+<<!DOCTYPE html>
+<html>
+
+<style type="text/css">
+
+	body{
+		background-color: yellow;
+		}
+	h2{
+		text-decoration: underline;
+	}
+	p{
+		font-size: medium;
+		color: darkblue;
+	}
+	a{
+		font-style: italic;
+		color: darkred;
+
+	}
+	.favorites {
+		text-decoration: underline;
+	}
+	#intro{
+		background-color: lightblue;
+	}
+	#interests{
+		background-color: lightslategrey;
+	}
+	#intro, #interests {
+		border: dashed;
+	}
+
+</style>
+
+</html>
